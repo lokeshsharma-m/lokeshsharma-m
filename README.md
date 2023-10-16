@@ -1,5 +1,9 @@
+
+
 # 💫 About Me:
-👨‍💻 I’m Cybersecurity enthusiast and frontend web developer.<br>🔒 Passionate about building secure and user-friendly web applications.<br>👯 I’m looking to collaborate on  cybersecurity  and frontend dev projects.<br>🌱 I’m currently learning React , Tailwind CSS<br>⚡ Fun fact-I find the process rewarding!
+<img  alt="gif" src="https://github.com/lokeshsharma-m/lokeshsharma-m/blob/b1480001f4b9082443b370246a1de55140f42c12/Developer.gif" align="right" width="230px"/><br/>
+👨‍💻 I’m Cybersecurity enthusiast and frontend web developer.<br>🔒 Passionate about building secure and user-friendly web applications.<br>👯 I’m looking to collaborate on  cybersecurity  and frontend dev projects.<br>
+🌱 I’m currently learning React & Webdev<br>⚡ Fun fact-I find the process rewarding!
 
 
 # 💻 Tech Stack:
